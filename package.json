@@ -1,0 +1,14 @@
+{
+  "name": "amazon-reviews-crawler",
+  "version": "1.0.0",
+  "description": "Crawl Product Reviews from Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahim Uddin (fahimuddin@brillmark.com)",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-reviews-crawler": "^1.0.4"
+  }
+}
