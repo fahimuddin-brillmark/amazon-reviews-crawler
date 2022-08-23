@@ -9,6 +9,12 @@
   "author": "Fahim Uddin (fahimuddin@brillmark.com)",
   "license": "ISC",
   "dependencies": {
-    "amazon-reviews-crawler": "^1.0.4"
+    "amazon-reviews-crawler": "^1.0.4",
+    "cheerio": "^1.0.0-rc.12",
+    "csvjson-csv2json": "^5.0.6",
+    "fast-csv": "^4.3.6",
+    "node-fetch": "^2.6.7",
+    "pino": "^8.4.1",
+    "pino-pretty": "^9.0.1"
   }
 }

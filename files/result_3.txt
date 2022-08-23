@@ -1,0 +1,8 @@
+["script","if(window.ue) { ues('id','reviewsAjax3','BJ7403FT9YE7G2WZDFCE');ues('t0','reviewsAjax3',new Date());ues('ctb','reviewsAjax3','1');uet('bb','reviewsAjax3'); }"]
+&&&
+ ["update","#filter-info-section","<div id=\"filter-info-section\" data-hook=\"cr-filter-info-section\" class=\"a-section a-spacing-medium\"><div data-hook=\"cr-filter-info-review-rating-count\" class=\"a-row a-spacing-base a-size-base\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        \n            \n                    \n                        342 total ratings, 33 with reviews\n                    \n            \n            \n        \n    \n    \n\n\n</div><hr aria-hidden=\"true\" class=\"a-spacing-medium a-divider-normal cr-full-screen-width\"/></div>"]
+&&&
+ ["update","#cm_cr-review_list",""]
+&&&
+ ["script","if(window.ue) { uet('cf','reviewsAjax3');uet('be','reviewsAjax3');uex('ld','reviewsAjax3'); }"]
+&&&
